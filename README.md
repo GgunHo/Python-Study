@@ -1,5 +1,8 @@
-Python Code
+# Python Code
 
-*Using tensorflow
+Using tensorflow
 1. Regression
 
+
+## Reference
+https://github.com/hunkim/DeepLearningZeroToAll
